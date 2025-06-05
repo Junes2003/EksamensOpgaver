@@ -1,4 +1,4 @@
-package Øvelser.Spørgsmål1_17;
+package Øvelser.Spørgsmål1_17.Spørgsmål17;
 
 import java.util.ArrayList;
 import java.util.HashSet;

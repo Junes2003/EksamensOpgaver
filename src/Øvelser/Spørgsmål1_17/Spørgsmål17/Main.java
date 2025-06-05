@@ -1,10 +1,6 @@
-package Øvelser.Spørgsmål1_17;
-
-import Øvelser.Spørgsmål1_17.Spøgsmål4.Dream;
+package Øvelser.Spørgsmål1_17.Spørgsmål17;
 
 import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
 
 public class Main {
     public static void main(String[] args) {
